@@ -1,0 +1,21 @@
+﻿<Window x:Class="The_Versus.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:The_Versus"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="650" Width="1200"
+        ResizeMode="NoResize" WindowStyle="None">
+
+    <Grid Background="Black">
+        <Image VerticalAlignment="Top" Stretch="Fill" Height="20" MouseDown="grabButton" Source="/img/abstract-fire-trails-2.png" />
+
+        <Button Content="X" Background="Red" HorizontalAlignment="Right" VerticalAlignment="Top"
+        Width="20" Height="20" Click="closeButton"/>
+
+        <Grid Background="Gray" Name="game" Margin="30">
+            
+        </Grid>
+    </Grid>
+</Window>

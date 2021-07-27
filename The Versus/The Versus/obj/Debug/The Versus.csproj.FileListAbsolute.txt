@@ -1,0 +1,36 @@
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\bin\Debug\The Versus.exe.config
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\bin\Debug\The Versus.exe
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\bin\Debug\The Versus.pdb
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.csprojAssemblyReference.cache
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\MainWindow.g.cs
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\App.g.cs
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus_MarkupCompile.cache
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus_MarkupCompile.lref
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\MainWindow.baml
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.g.resources
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The_Versus.Properties.Resources.resources
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.csproj.GenerateResource.cache
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.csproj.CoreCompileInputs.cache
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.exe
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.pdb
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\bin\Debug\Fight.dll
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\bin\Debug\Fight.pdb
+C:\Users\LMNO021\Desktop\Les Repos\Projet Individuel Final WPF\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.csproj.CopyComplete
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\bin\Debug\The Versus.exe.config
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\bin\Debug\The Versus.exe
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\bin\Debug\The Versus.pdb
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\bin\Debug\Fight.dll
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\bin\Debug\Fight.pdb
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.csproj.AssemblyReference.cache
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\MainWindow.g.cs
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\App.g.cs
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus_MarkupCompile.cache
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus_MarkupCompile.lref
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\MainWindow.baml
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.g.resources
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The_Versus.Properties.Resources.resources
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.csproj.GenerateResource.cache
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.csproj.CoreCompileInputs.cache
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.csproj.CopyComplete
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.exe
+C:\Users\PC9\Desktop\Projet-Individuel-Final-WPF-master\projet\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.pdb
