@@ -8,14 +8,16 @@
         Title="MainWindow" Height="650" Width="1200"
         ResizeMode="NoResize" WindowStyle="None">
 
+    <Window.Resources>
+        
+    </Window.Resources>
+
     <Grid Background="Black">
         <Image VerticalAlignment="Top" Stretch="Fill" Height="20" MouseDown="grabButton" Source="/img/abstract-fire-trails-2.png" />
 
         <Button Content="X" Background="Red" HorizontalAlignment="Right" VerticalAlignment="Top"
         Width="20" Height="20" Click="closeButton"/>
 
-        <Grid Background="Gray" Name="game" Margin="30">
-            
-        </Grid>
+        <Frame Background="Gray" Name="game" Margin="30" BorderBrush="White" Source="menu.xaml" />
     </Grid>
 </Window>
