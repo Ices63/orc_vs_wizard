@@ -116,7 +116,10 @@
     <Resource Include="img\abstract-fire-trails-2.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="forest.jpg" />
+    <Resource Include="img\forest.jpg" />
+    <Resource Include="img\orc.png" />
+    <Resource Include="img\Player.png" />
+    <Resource Include="img\wizard.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

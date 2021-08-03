@@ -9,6 +9,17 @@
       Title="inGame">
 
     <Grid>
-        
+        <Image Source="/img/forest.jpg" Stretch="Fill"/>
+        <Image Margin="0,287,512,0" Source="/img/wizard.png" Stretch="Fill" Height="163" VerticalAlignment="Top" HorizontalAlignment="Right" Width="143"/>
+        <Image Margin="507,245,0,0" Source="/img/orc.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Height="205" VerticalAlignment="Top" HorizontalAlignment="Left" Width="221">
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
     </Grid>
 </Page>

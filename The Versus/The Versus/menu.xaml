@@ -9,8 +9,8 @@
       Title="menu">
 
     <Grid>
-        <Image Source="forest.jpg" Stretch="Fill"/>
-        <Button Width="150" Content="Start" FontSize="25" Margin="100,120,0,0" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top"/>
+        <Image Source="/img/forest.jpg" Stretch="Fill" />
+        <Button Width="150" Content="Start" Name="start" FontSize="25" Margin="100,120,0,0" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top"/>
         <Button Width="150" Content="Options" FontSize="25" Margin="100,200,0,0" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top"/>
         <Button Width="150" Content="Exit" FontSize="25" Margin="100,280,0,0" HorizontalAlignment="Left" Height="50" VerticalAlignment="Top"/>
     </Grid>

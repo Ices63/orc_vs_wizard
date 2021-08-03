@@ -23,6 +23,7 @@ namespace The_Versus
         public menu()
         {
             InitializeComponent();
+            Button Start = start;
         }
     }
 }
