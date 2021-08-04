@@ -18,6 +18,6 @@
         <Button Content="X" Background="Red" HorizontalAlignment="Right" VerticalAlignment="Top"
         Width="20" Height="20" Click="closeButton"/>
 
-        <Frame Background="Gray" Name="game" Margin="30" BorderBrush="White" Source="menu.xaml" />
+        <Frame Background="Gray" x:Name="game" Margin="30" BorderBrush="White" Source="menu.xaml" NavigationUIVisibility="Hidden" />
     </Grid>
 </Window>

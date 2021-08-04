@@ -5,21 +5,23 @@
       xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
       xmlns:local="clr-namespace:The_Versus"
       mc:Ignorable="d" 
-      d:DesignHeight="450" d:DesignWidth="800"
+      d:DesignHeight="590" d:DesignWidth="1140"
       Title="inGame">
 
     <Grid>
-        <Image Source="/img/forest.jpg" Stretch="Fill"/>
-        <Image Margin="0,287,512,0" Source="/img/wizard.png" Stretch="Fill" Height="163" VerticalAlignment="Top" HorizontalAlignment="Right" Width="143"/>
-        <Image Margin="507,245,0,0" Source="/img/orc.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Height="205" VerticalAlignment="Top" HorizontalAlignment="Left" Width="221">
+        <Image Source="/img/forest.jpg" Stretch="Fill" Grid.RowSpan="2"/>
+        <Image Margin="229,0,0,0" Source="/img/wizard.png" Stretch="Fill" HorizontalAlignment="Left" Width="143" Height="163" VerticalAlignment="Bottom" Grid.Row="1"/>
+        <Image Margin="0,0,192,0" Source="/img/orc.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Height="205" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="221" Grid.Row="1">
             <Image.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform ScaleX="-1"/>
-                    <SkewTransform/>
-                    <RotateTransform/>
                     <TranslateTransform/>
                 </TransformGroup>
             </Image.RenderTransform>
         </Image>
+        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left" Height="42" Margin="167,0,0,190" VerticalAlignment="Bottom" Width="254" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left" Height="42" Margin="167,0,0,229" VerticalAlignment="Bottom" Width="254" Grid.RowSpan="2"/>
+        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Right" Height="42" Margin="0,0,191,190" VerticalAlignment="Bottom" Width="254" Grid.Row="1"/>
+        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Right" Height="42" Margin="0,0,191,229" VerticalAlignment="Bottom" Width="254" Grid.RowSpan="2"/>
     </Grid>
 </Page>

@@ -16,19 +16,13 @@ using System.Windows.Shapes;
 namespace The_Versus
 {
     /// <summary>
-    /// Logique d'interaction pour Menu.xaml
+    /// Logique d'interaction pour inGame.xaml
     /// </summary>
-    public partial class Menu : Page
+    public partial class inGame : Page
     {
-        public Menu()
+        public inGame()
         {
             InitializeComponent();
-        }
-
-        private void Start_Click(object sender, RoutedEventArgs e)
-        {
-            start.Background = Brushes.Red;
-            NavigationService.Navigate(new Uri("inGame.xaml", UriKind.Relative));
         }
     }
 }

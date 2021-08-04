@@ -52,7 +52,7 @@ C:\Users\PC9\Desktop\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.cs
 C:\Users\PC9\Desktop\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.csproj.CopyComplete
 C:\Users\PC9\Desktop\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.exe
 C:\Users\PC9\Desktop\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.pdb
-C:\Users\PC9\Desktop\orc_vs_wizard\The Versus\The Versus\obj\Debug\menu.g.cs
 C:\Users\PC9\Desktop\orc_vs_wizard\The Versus\The Versus\obj\Debug\menu.baml
+C:\Users\PC9\Desktop\orc_vs_wizard\The Versus\The Versus\obj\Debug\menu.g.cs
 C:\Users\PC9\Desktop\orc_vs_wizard\The Versus\The Versus\obj\Debug\inGame.g.cs
 C:\Users\PC9\Desktop\orc_vs_wizard\The Versus\The Versus\obj\Debug\inGame.baml
