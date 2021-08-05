@@ -19,9 +19,17 @@
                 </TransformGroup>
             </Image.RenderTransform>
         </Image>
-        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left" Height="42" Margin="167,0,0,190" VerticalAlignment="Bottom" Width="254" Grid.Row="1"/>
-        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left" Height="42" Margin="167,0,0,229" VerticalAlignment="Bottom" Width="254" Grid.RowSpan="2"/>
-        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Right" Height="42" Margin="0,0,191,190" VerticalAlignment="Bottom" Width="254" Grid.Row="1"/>
-        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Right" Height="42" Margin="0,0,191,229" VerticalAlignment="Bottom" Width="254" Grid.RowSpan="2"/>
+        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left" Height="42" Margin="167,0,0,190" VerticalAlignment="Bottom" Width="254" Grid.Row="1">
+            <Rectangle Fill="Cyan" Stroke="Black"/>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left" Height="42" Margin="167,0,0,229" VerticalAlignment="Bottom" Width="254" Grid.RowSpan="2">
+            <Rectangle Fill="Lime" Stroke="Black"/>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Right" Height="42" Margin="0,0,191,190" VerticalAlignment="Bottom" Width="254" Grid.Row="1">
+            <Rectangle Fill="Cyan" Stroke="Black"/>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Right" Height="42" Margin="0,0,191,229" VerticalAlignment="Bottom" Width="254" Grid.RowSpan="2">
+            <Rectangle Fill="Lime" Stroke="Black"/>
+        </Border>
     </Grid>
 </Page>
