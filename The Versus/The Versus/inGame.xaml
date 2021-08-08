@@ -10,26 +10,36 @@
 
     <Grid>
         <Image Source="/img/forest.jpg" Stretch="Fill" Grid.RowSpan="2"/>
+
+        
+        
         <Image Margin="229,0,0,0" Source="/img/wizard.png" Stretch="Fill" HorizontalAlignment="Left" Width="143" Height="163" VerticalAlignment="Bottom" Grid.Row="1"/>
-        <Image Margin="0,0,192,0" Source="/img/orc.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Height="205" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="221" Grid.Row="1">
-            <Image.RenderTransform>
-                <TransformGroup>
-                    <ScaleTransform ScaleX="-1"/>
-                    <TranslateTransform/>
-                </TransformGroup>
-            </Image.RenderTransform>
-        </Image>
+        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left" Height="42" Margin="167,0,0,229" VerticalAlignment="Bottom" Width="254" Grid.RowSpan="2">
+            <Rectangle Fill="Lime" Stroke="Black"/>
+        </Border>
         <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left" Height="42" Margin="167,0,0,190" VerticalAlignment="Bottom" Width="254" Grid.Row="1">
             <Rectangle Fill="Cyan" Stroke="Black"/>
         </Border>
-        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left" Height="42" Margin="167,0,0,229" VerticalAlignment="Bottom" Width="254" Grid.RowSpan="2">
+
+        
+        
+        <Image Margin="0,0,192,0" Source="/img/orc.png" Stretch="Fill" RenderTransformOrigin="0.5,0.5" Height="205" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="221" Grid.Row="1">
+            <Image.RenderTransform> <TransformGroup> <ScaleTransform ScaleX="-1"/> <TranslateTransform/> </TransformGroup> </Image.RenderTransform>
+        </Image>
+        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Right" Height="42" Margin="0,0,191,229" VerticalAlignment="Bottom" Width="254" Grid.RowSpan="2">
             <Rectangle Fill="Lime" Stroke="Black"/>
         </Border>
         <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Right" Height="42" Margin="0,0,191,190" VerticalAlignment="Bottom" Width="254" Grid.Row="1">
             <Rectangle Fill="Cyan" Stroke="Black"/>
         </Border>
-        <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Right" Height="42" Margin="0,0,191,229" VerticalAlignment="Bottom" Width="254" Grid.RowSpan="2">
-            <Rectangle Fill="Lime" Stroke="Black"/>
-        </Border>
+
+        
+        
+        <Button Width="150" Content="Menu" FontSize="25" Margin="0,0,10,10" HorizontalAlignment="Right" Height="50" VerticalAlignment="Bottom" Click="menu"/>
+
+        <Button Width="200" Content="Attack" FontSize="25" Margin="150,100,0,0" HorizontalAlignment="Left" Height="76" VerticalAlignment="Top"/>
+        <Button Width="200" Content="Spell" FontSize="25" Margin="450,100,0,0" HorizontalAlignment="Left" Height="76" VerticalAlignment="Top"/>
+        <Button Width="200" Content="Block" FontSize="25" Margin="750,100,0,0" VerticalAlignment="Top" Height="76" HorizontalAlignment="Left"/>
+
     </Grid>
 </Page>

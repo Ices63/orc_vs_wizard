@@ -25,6 +25,9 @@ namespace The_Versus
             InitializeComponent();
         }
 
-
+        private void menu(object sender, RoutedEventArgs e)
+        {
+            NavigationService.Navigate(new Uri("menu.xaml", UriKind.Relative));
+        }
     }
 }

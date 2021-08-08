@@ -104,6 +104,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="img\Wizard VS Orc.xcf" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -120,6 +121,9 @@
     <Resource Include="img\orc.png" />
     <Resource Include="img\Player.png" />
     <Resource Include="img\wizard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\Wizard VS Orc.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

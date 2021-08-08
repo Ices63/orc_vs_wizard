@@ -30,5 +30,10 @@ namespace The_Versus
             start.Background = Brushes.Red;
             NavigationService.Navigate(new Uri("inGame.xaml", UriKind.Relative));
         }
+
+        private void Exit(object sender, RoutedEventArgs e)
+        {
+            Application.Current.MainWindow.Close();
+        }
     }
 }
