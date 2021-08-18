@@ -78,3 +78,6 @@ F:\Git\Repos\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.csproj.Cor
 F:\Git\Repos\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.csproj.CopyComplete
 F:\Git\Repos\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.exe
 F:\Git\Repos\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.pdb
+F:\Git\Repos\orc_vs_wizard\The Versus\The Versus\bin\Debug\WpfAnimatedGif.dll
+F:\Git\Repos\orc_vs_wizard\The Versus\The Versus\bin\Debug\WpfAnimatedGif.pdb
+F:\Git\Repos\orc_vs_wizard\The Versus\The Versus\bin\Debug\WpfAnimatedGif.xml

@@ -13,6 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+using System.Windows.Threading;
+
 namespace The_Versus
 {
     /// <summary>
@@ -25,9 +27,86 @@ namespace The_Versus
             InitializeComponent();
         }
 
+        // Les boutons du jeu //
+
         private void menu(object sender, RoutedEventArgs e)
         {
-            NavigationService.Navigate(new Uri("menu.xaml", UriKind.Relative));
+            Win();
+        }
+
+        private void wizAttack(object sender, RoutedEventArgs e)
+        {
+            if (orcHP.Width >= 10)
+            {
+                OrcBoum();
+                orcHP.Width -= 10;
+                outMana.Visibility = Visibility.Hidden;
+                if (wizMP.Width <= 235)
+                {
+                    wizMP.Width += 10;
+                }
+                else if (wizMP.Width > 235)
+                {
+                    wizMP.Width = 245;
+                }
+                else { }
+            }
+            else
+            {
+                Win();
+            }
+        }
+
+        private void wizSpell(object sender, RoutedEventArgs e)
+        {
+            if (orcHP.Width >= 20 && wizMP.Width >= 50)
+            {
+                orcHP.Width -= 20;
+                wizMP.Width -= 50;
+            }
+            else if (orcHP.Width < 20 && wizMP.Width >= 50)
+            {
+                Win();
+            }
+            else
+            {
+                outMana.Visibility = Visibility.Visible;
+            }
+        }
+
+        private void wizBlock(object sender, RoutedEventArgs e)
+        {
+            outMana.Visibility = Visibility.Hidden;
+
+            if (wizHP.Width <= 230)
+            {
+                wizHP.Width += 15;
+            }
+            if (wizHP.Width > 230)
+            {
+                wizHP.Width = 245;
+            }
+
+            if (wizMP.Width <= 220)
+            {
+                wizMP.Width += 25;
+            }
+            if (wizMP.Width > 220)
+            {
+                wizMP.Width = 245;
+            }
+
+            else { }
+        }
+
+
+
+        // Les Fonctions //
+        public void Win() => NavigationService.Navigate(new Uri("menu.xaml", UriKind.Relative));
+        public void OrcBoum()
+        {
+            orcBoum.BeginInit();
+            orcBoum.EndInit();
         }
     }
 }
