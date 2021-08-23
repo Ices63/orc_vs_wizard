@@ -81,3 +81,28 @@ F:\Git\Repos\orc_vs_wizard\The Versus\The Versus\obj\Debug\The Versus.pdb
 F:\Git\Repos\orc_vs_wizard\The Versus\The Versus\bin\Debug\WpfAnimatedGif.dll
 F:\Git\Repos\orc_vs_wizard\The Versus\The Versus\bin\Debug\WpfAnimatedGif.pdb
 F:\Git\Repos\orc_vs_wizard\The Versus\The Versus\bin\Debug\WpfAnimatedGif.xml
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\bin\Debug\The Versus.exe.config
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\bin\Debug\The Versus.exe
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\bin\Debug\The Versus.pdb
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\bin\Debug\Fight.dll
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\bin\Debug\WpfAnimatedGif.dll
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\bin\Debug\Fight.pdb
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\bin\Debug\WpfAnimatedGif.pdb
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\bin\Debug\WpfAnimatedGif.xml
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\The Versus.csprojAssemblyReference.cache
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\inGame.g.cs
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\MainWindow.g.cs
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\menu.g.cs
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\App.g.cs
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\The Versus_MarkupCompile.cache
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\The Versus_MarkupCompile.lref
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\inGame.baml
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\MainWindow.baml
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\menu.baml
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\The Versus.g.resources
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\The_Versus.Properties.Resources.resources
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\The Versus.csproj.GenerateResource.cache
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\The Versus.csproj.CoreCompileInputs.cache
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\The Versus.csproj.CopyComplete
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\The Versus.exe
+F:\Git\Repos\OrcVsWizard\The Versus\The Versus\obj\Debug\The Versus.pdb

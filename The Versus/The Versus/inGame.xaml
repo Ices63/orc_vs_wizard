@@ -13,8 +13,11 @@
     <Grid>
         <Image Source="/img/forest.jpg" Stretch="Fill" Grid.RowSpan="2"/>
 
-
-
+        <Border Margin="220,233,768,316" Background="White" Opacity="0.5" BorderBrush="Black" BorderThickness="5">
+        <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" Text="You" FontSize="25" FontWeight="ExtraBold" Foreground="Red"
+                   VerticalAlignment="Top" Margin="46,-5,0,0"/>
+        </Border>
+        
         <Image Margin="220,0,0,10" Source="/img/wizard.png" Stretch="Fill" HorizontalAlignment="Left" Width="143" Height="163" VerticalAlignment="Bottom" Grid.Row="1"/>
         <Border BorderBrush="Black" BorderThickness="5" HorizontalAlignment="Left" Height="42" Margin="167,0,0,274" VerticalAlignment="Bottom" Width="254">
             <Rectangle Name="wizHP" Fill="Lime" Stroke="Black" HorizontalAlignment="Left" Width="245"/>
@@ -46,6 +49,6 @@
         <Border Name="outMana" Width="300" BorderThickness="5" BorderBrush="Black" Margin="400,36,0,0" HorizontalAlignment="Left" Height="59" VerticalAlignment="Top" Background="Cyan" Visibility="Hidden">
             <TextBlock Text="Out of Mana ! ! !" FontSize="25" TextAlignment="Center" TextWrapping="Wrap"/>
         </Border>
-        
+
     </Grid>
 </Page>
