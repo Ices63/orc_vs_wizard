@@ -33,7 +33,7 @@
             <Rectangle Name="orcMP" Fill="Cyan" Stroke="Black" HorizontalAlignment="Left" Width="245"/>
         </Border>
         <Grid VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="150" Height="230" Margin="0,0,228,20" >
-            <Image Name="orcBoum" gif:ImageBehavior.AnimatedSource="/img/boum.gif" gif:ImageBehavior.RepeatBehavior="0.47x"/>
+            <Image Name="orcBoum" Visibility="Hidden" gif:ImageBehavior.AnimatedSource="/img/boum.gif" gif:ImageBehavior.RepeatBehavior="Forever" />
         </Grid>
 
 

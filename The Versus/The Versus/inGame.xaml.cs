@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
@@ -106,7 +107,30 @@ namespace The_Versus
         public void OrcBoum()
         {
             orcBoum.BeginInit();
+
+            orcBoum.UpdateLayout();
+            orcBoum.Visibility = Visibility.Visible;
+
             orcBoum.EndInit();
+            BoumTimer();
         }
+
+        private void BoumTimer()
+        {
+            orcBoum.Visibility = Visibility.Hidden;
+        }
+        /*
+        private static async Task<BoumTimer> BoumTimerAsync()
+        {
+            for (int i = 1; i < 10; i++)
+            {
+                Task.Delay(10).Wait();
+            }
+        }
+
+        private class BoumTimer
+        {
+        }
+        */
     }
 }
